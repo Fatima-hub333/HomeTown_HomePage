@@ -7,10 +7,10 @@ It is a Capstone Project of HTML/CSS in Scrimba Course. It is a simple Home Town
 - JavaScript
 - Stylelint, Web Hint, Lighthouse
 
-![screenshot](images/)
+![screenshot](images/HomeTown_Page.png)
 
 ## [LiveDemo] 
-()
+(https://cool-sawine-313e25.netlify.app/)
 
 ## Getting Started
 To get a local copy up and running, follow the steps in Setup below.
