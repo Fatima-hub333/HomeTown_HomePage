@@ -76,14 +76,12 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
-  #hero {
-    background-image: url("images/herosection.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    padding: 10px 0 40px 0;
+  .activities {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
+  }
+
+  .card {
+    width: 300px;
   }
 }
